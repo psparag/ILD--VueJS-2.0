@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "lumenpulse",
+        "brandURL": "https://www.lumenpulse.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "01",
+            "title": "Lumenpulse ",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Lumenpulse designs and manufacturers cutting edge Architectural Solid State Lighting Luminaires for both interior and exterior applications. In addition to standard products, Lumenpulse specializes in the design, manufacturing and commissioning of large scale custom solid state lighting solutions worldwide.</p>"
+        }
+    },
+    {
+        "id": 2,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "lumenAlpha",
+        "brandURL": "https://www.lumenpulse.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "02",
+            "title": "LumenAlpha",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>LumenAlpha part of Lumen pulse group manufactured in UK, specialize in LED Down light with focus on performance, light quality, flexibility and lifetime. Lumen Alpha provides lifetime of L95 55000hrs, Guaranteed Color Stability, True Asymmetric wall wash, Precision optics and Lumen Output upto 5000lm.</p>"
+        }
+    },
+    {
+        "id": 3,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "exenia",
+        "brandURL": "https://www.exenia.eu/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "03",
+            "title": "exenia",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Italy based manufacturer of architectural indoor and outdoor LED lighting solutions. Exenia, a lumenpulse group owned company founded in 2010, has established itself as a growing leader in the design and manufacturing of architectural indoor LED lighting solutions, with an emphasis on design and performance. The company has been most active in the Italian and Southern European markets – now spreading globally under Lumenpulse’s leadership, illuminating a wide range of retail, residential, hospitality, commercial and museum environments.</p>"
+        }
+    },
+    {
+        "id": 4,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "ewo",
+        "brandURL": "https://www.ewo.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "04",
+            "title": "ewo",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>ewo creates high-quality lighting systems for public spaces. At the main facility of this family-run business, headquartered in South Tyrol, products are developed which bring light to a variety of different settings: streets, squares and buildings; walking trails, urban gathering points and airports.</p><p> Even in the most challenging of settings, ewo provides custom-tailored solutions for distributing, limiting and controlling light – solutions that have become a quality feature in the design of public spaces. </p>"
+        }
+    },
+    {
+        "id": 5,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "dot_spot",
+        "brandURL": "https://www.dot-spot.eu/en/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "05",
+            "title": "Dot Spot",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>German engineered exterior and interior grade products for architectural, landscape, underwater, accent lighting. Breathtaking diminutive led products delivering high outputs.</p>"
+        }
+    },
+    {
+        "id": 6,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "lec",
+        "brandURL": "https://www.lec-lyon.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "06",
+            "title": "Lec",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Quality outdoor luminaries for sustainable exterior architectural, site, area, parking and landscape lighting. Standard product and possibility of customized bespoke solutions for specification grade. Over 39 years of expertise in LEDs and outdoor lighting.</p>"
+        }
+    },
+    {
+        "id": 7,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "heper",
+        "brandURL": "https://www.heperlighting.com/en",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "07",
+            "title": "heper",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Comprises road, tunnel, landscape and facade lighting products with minimalistic and futuristic designs. Developing efficient luminaries with generous helping hand of Bartenbach since many years.</p>"
+        }
+    },
+    {
+        "id": 8,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "ufo",
+        "brandURL": "https://www.fibreopticlighting.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "08",
+            "title": "ufo",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Specializing in complete fiber optic lighting systems for the architectural, commercial, conservation, sensory and residential sectors since their establishment in 1991. Have been offering fiber optic solutions for Entertainment and Hospitality Venues, Museum and Gallery display cases, pool and wet areas, fiber optic chandeliers etc. Latest addition of LED and DMX controllable light sources.</p>"
+        }
+    },
+    {
+        "id": 9,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "cariboni",
+        "brandURL": "https://www.caribonigroup.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "09",
+            "title": "cariboni",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A byword for quality, research, design and Made in Italy. Planning and production of design Luminaires and lighting systems. Realization of “100% Made in Italy” products with energy consumption minimized and performing optics designed to obtain the best photometric result, visual comfort and the absence of light dispersion towards the sky, Organizing production processes socially responsible with a focus on limiting wastefulness and ecology.</p>"
+        }
+    },
+    {
+        "id": 10,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "eulum",
+        "brandURL": "https://www.eulum.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "10",
+            "title": "Eulum",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Eulum an award-winning, independent, international provider of custom lighting & electronic technology solutions to OEMs.</p><p>We work exclusively in lighting, with Xicato / Casambi and Lens Vector as our partners – Eulum provides provides complete fixtures, both indoor & outdoor, sub-assembly kits and electronics systems.</p>"
+        }
+    },
+    {
+        "id": 11,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "barthelme",
+        "brandURL": "https://www.barthelme.de",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "11",
+            "title": "barthelme",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>The Barthelme product line ranges from interior-exterior architectural luminaires to IP protected flexible LED stripes, direct view flexible led luminaires to a variety of innovative profiles and customized luminaires through intelligent controllers for comfortable lighting management.</p>"
+        }
+    },
+    {
+        "id": 12,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "rosa",
+        "brandURL": "https://rosa.pl",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "12",
+            "title": "rosa",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Rosa, specialized in design and production of outdoor area and architectural lighting products and columns, comprising of standard as well as custom products made of anodized aluminum in 10 different colors, with complete commercial and engineering service, believe in delivering innovative and ecological solutions which allow them for energy saving for each of their project.</p>"
+        }
+    },
+    {
+        "id": 13,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "technilum",
+        "brandURL": "https://www.technilum.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "13",
+            "title": "technilum",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Technilum offers a full range of outdoor lighting products and furniture to answer specifiers needs in terms of urban space. Manufacturing architecture and urban planning products.</p>"
+        }
+    },
+    {
+        "id": 14,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "puraluce",
+        "brandURL": "http://www.puraluce.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "14",
+            "title": "puraluce",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Italian designed interior and exterior grade product range with discreet, elegant luminaires unique in finishes, excellent LED optics allowing to draw the light that serves.</p>"
+        }
+    },
+    {
+        "id": 15,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "derksen",
+        "brandURL": "https://www.derksen.de/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "15",
+            "title": "derksen",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>The company from Germany develops innovative light solutions for the Point of Sale, for museums and significant architecture projects since more than 24 years. Unique-ness and precision explain the using of the products worldwide. Texts, graphics, brand logos and photo-realistic images can be projected on every appropriate surface with Derksen Projection Systems. The spectrum of the products ranges from compact indoor projectors to powerful and weatherproof outdoor systems.</p>"
+        }
+    },
+    {
+        "id": 16,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "orluna",
+        "brandURL": "https://www.orluna.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "16",
+            "title": "orluna",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Orluna – Beautifully Lit !! </p> <p>A British company expertly focused on the design & manufacturing excellent LED downlights for luxury lifestyle environments. Downlights are perfect for hotel, restaurant and domestic interiors, they’re delightfully discreet (with an inconspicuous 50mm aperture), their colour is utterly consistent (up to four times that of competitor CREE products) and offer range of beautifully designed bezels.</p>"
+        }
+    },
+    {
+        "id": 17,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "ivela",
+        "brandURL": "http://www.ivela.it/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "17",
+            "title": "ivela",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Italy Based Manufacture of architectural indoor and outdoor Led lighting Solution with emphasis on quality of light and controlled optics.</p>"
+        }
+    },
+    {
+        "id": 18,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "emfa",
+        "brandURL": "https://www.emfa.com.tr/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "18",
+            "title": "emfa",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Outdoor lighting solutions LED surface mount, modular, linear, recessed, underwater luminaires. Crafting light for more than 6 decades and 3 generations, using led’s since 1991 and have manufacturing experience of over 50 years.</p>"
+        }
+    },
+    {
+        "id": 19,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "moltoluce",
+        "brandURL": "https://www.moltoluce.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "19",
+            "title": "moltoluce",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Architectural and decorative Italian designed luminaires including indoor – outdoor luminaires ranging from pendants, display lights, wall & ceiling, and linear lights.</p>"
+        }
+    },
+    {
+        "id": 20,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "astel_lighting",
+        "brandURL": "https://www.astel-lighting.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "20",
+            "title": "Astel Lighting",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Specializing in underwater lighting solutions, the ASTEL LIGHTING brand name was launched in 2009 as the result of very well accepted marine lighting. The product portfolio includes variety of submersible luminaires for both surface and recessed application in different wattages with minimalistic dimensions.</p>"
+        }
+    },
+    {
+        "id": 21,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "astro",
+        "brandURL": "https://www.astrolighting.com/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "21",
+            "title": "astro",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Astro with a shared commitment to British lighting design and a passion for quality and precision. Astro's creative ethos has remained consistent throughout – that good design demands simplicity. Astro’s product range comprises of in interior – exterior architectural and decorative luminaires.</p>"
+        }
+    },
+    {
+        "id": 22,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "es_system",
+        "brandURL": "https://www.essystem.pl/",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "22",
+            "title": "ES System",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>The idea behind the company is to take care for the environment by saving energy. ES in its name refers to its Energy Saving motto. The company's product include a wide range of professional lighting system for use in public and industrial buildings, outdoor areas and streets.</p>"
+        }
+    },
+    {
+        "id": 23,
+        "type": "brands",
+        "page": "BrandSingle",
+        "slug": "no_watt_lighting",
+        "brandURL": "https://www.nowatt-lighting.com",
+        "thumbnailUrl": "placeholder.jpg",
+        "heroSection": {
+            "id": "23",
+            "title": "No Watt Lighting",
+            "carouselImages": ["placeholder.jpg"],
+            "imageUrl": "placeholder.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Autonomous, intelligent, reliable, well - designed, accurate, powerful & connected architectural grade lighting products linked to solar technology</p>"
+        }
+    }
+]

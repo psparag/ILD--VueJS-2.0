@@ -1,0 +1,218 @@
+[
+    {
+        "projectId": 1,
+        "type": "featured",
+        "page": "ProductSingle",
+        "slug": "rumi_gate",
+        "thumbnailUrl": "rumi_gate_1.jpg",
+        "heroSection": {
+            "id": "01",
+            "title": "rumi gate",
+            "imageUrl": "rumi_gate_1.jpg",
+            "carouselImages": ["rumi_gate_1.jpg", "rumi_gate_2.jpg", "rumi_gate_3.jpg"],
+            "date": "March 2019"
+        },
+        "galleryImages": ["rumi_gate_1.jpg", "rumi_gate_2.jpg", "rumi_gate_3.jpg"],
+        "headingOne": {
+            "headingid": "01",
+            "headingsize": "small",
+            "headingtext": "Summary",
+            "extraclass": "information-container-grid--info-container mx-auto mt-20",
+            "paragraphtext": "Innovative Lighting Designs, from their brand portfolio, used luminaires from Lumenpulse and Lec for the façade lighting application project by Archohm Consults. The fixtures were mounted without drilling into the building or fixing visible control boxes. The luminaires used reduced the total consumption to 1/3rd thus saving energy and maintenance costs."
+        },
+        "extraContents": [
+            {
+                "headingid": "02",
+                "headingsize": "small",
+                "headingtext": "ABOUT THE PROJECT",
+                "paragraphtext": "Constructed in 1780s, ‘The Turkish Gate of Lucknow’ popularly known as Rumi Gate stands 60 feet tall between the Chota and Bada Imambara becoming a recognized landmark of Lucknow. A perfect example of cultural blend, this structure possesses the intricate design of Mughals dominating the structure, the Rajput Chhatris (umbrella – shaped pavilions) ornating the Gateway and a typical Awadhi style construction done with bricks and limestone quite like Bada Imambara. The front of this fascinating Darwaza has three distinct doorways which turns into a single seamless giant façade with the same three doorways from the rear view adding an element of surprise to the structure. "
+            },
+            {
+                "headingid": "03",
+                "headingsize": "small",
+                "headingtext": "LIGHTING DESIGN INTENT",
+                "paragraphtext": "A Heritage structure like Rumi Gate that boldly marks national pride and has witnessed several freedom struggles, permits a different approach to lighting. The ASI protected structure did not allow an incursion into the structure fabric which in turn marked the urgency of using standalone lighting fixtures that would be directly aimed at the application.Innovative Lighting Designs, from their brand portfolio, used luminaires from Lumenpulse and Lec for the façade lighting application. The précised lensed exterior products not only helped to achieve the required lighting effect but also fulfilled the special lighting requirements by playing with tones of whites adding a color changing element to the design. The fixtures were directed to accent the architectural details of the structure giving it a far better lit effect in comparison to conventional lighting effect."
+            },
+            {
+                "headingid": "04",
+                "headingsize": "small",
+                "headingtext": "THINKING SUSTAINABLY",
+                "paragraphtext": "‘Innovation distinguishes between a leader and a follower’, and therefore, with our quality of products, we were able to bring down the total consumption to 1/3rd thus saving energy and maintenance costs. The fixtures were mounted without drilling into the building or fixing visible control boxes, which was important to maintain the architectural integrity of the building. "
+            },
+            {
+                "headingid": "05",
+                "headingsize": "small",
+                "headingtext": "PRODUCTS USED",
+                "paragraphtext": "<ul><li>Alicante, LEC</li><li>Corsica, LEC</li><li>Arches, LEC</li><li>Luminy, LEC</li><li>Lumenbeam Grande, Lumenpulse</li></ul>"
+            }
+        ]
+    },
+    {
+        "projectId": 2,
+        "type": "featured",
+        "page": "ProductSingle",
+        "slug": "lodha_mumbai",
+        "thumbnailUrl": "lodha_group_7.png",
+        "heroSection": {
+            "id": "02",
+            "title": "lodha Mumbai",
+            "imageUrl": "lodha_group_7.png",
+            "carouselImages": ["lodha_group_1.png", "lodha_group_2.png", "lodha_group_3.png"],
+            "date": "April 2019"
+        },
+        "galleryImages": ["lodha_group_1.png", "lodha_group_2.png", "lodha_group_3.png", "lodha_group_4.png", "lodha_group_5.png", "lodha_group_6.png", "lodha_group_7.png", "lodha_group_8.png", "lodha_group_9.png"],
+        "headingOne": {
+            "headingid": "01",
+            "headingsize": "small",
+            "headingtext": "Summary",
+            "extraclass": "information-container-grid--info-container mx-auto mt-20",
+            "paragraphtext": "ILDL has worked on variety of Lodha Projects starting from Interior Architectural to Exterior Façade and Landscape Lighting. By using products from some of the exclusive international brands, we strive to achieve the intent with an aesthetical approach. "
+        },
+        "extraContents": [
+            {
+                "headingid": "02",
+                "headingsize": "small",
+                "headingtext": "ABOUT THE PROJECT",
+                "paragraphtext": "Spread across multiple acres, Lodha Projects are conceived to provide the perfect ecosystem for people to live, work, relax and indulge themselves, all at one convenient address. The projects are thoughtfully designed and meticulously planned to include every comfort, convenience and luxury and is the perfect representation of what a world should be. With residential towers alongside premium corporate workspaces, it seamlessly integrates a host of cultural, shopping and recreational spots with large open spaces, to create the perfect urban destination. "
+            },
+            {
+                "headingid": "03",
+                "headingsize": "small",
+                "headingtext": "LIGHTING DESIGN INTENT",
+                "paragraphtext": "ILDL has worked on variety of Lodha Projects starting from Interior Architectural to Exterior Façade and Landscape Lighting. With exclusive international brands in ILD’s portfolio, we strive to offer Premium lighting solutions for a premium brand. By means of contemporary light fixtures, the modern interiors will receive a classic touch as the design of our fixtures blows new life into the architectural interior details.  "
+            },
+            {
+                "headingid": "04",
+                "headingsize": "small",
+                "headingtext": "PRODUCTS USED",
+                "paragraphtext": "<ul><li>Orluna Downlight </li><li>Dot-Spot Luminaires</li><li>Cariboni Luminaires</li><li>Barthelme Luminaires</li></ul>"
+            }
+        ]
+    },
+    {
+        "projectId": 3,
+        "type": "featured",
+        "page": "ProductSingle",
+        "slug": "taj_mahal_main_east_gate_entrance",
+        "thumbnailUrl": "taj_mahal_main_east_gate_entrance_2.jpg",
+        "heroSection": {
+            "id": "03",
+            "title": "taj mahal main east gate entrance",
+            "imageUrl": "taj_mahal_main_east_gate_entrance_2.jpg",
+            "carouselImages": ["taj_mahal_main_east_gate_entrance_2.jpg", "taj_mahal_main_east_gate_entrance_3.jpg", "taj_mahal_main_east_gate_entrance_4.jpg"],
+            "date": "May 2019"
+        },
+        "galleryImages": ["taj_mahal_main_east_gate_entrance_2.jpg", "taj_mahal_main_east_gate_entrance_3.jpg", "taj_mahal_main_east_gate_entrance_4.jpg"],
+        "headingOne": {
+            "headingid": "01",
+            "headingsize": "small",
+            "headingtext": "Summary",
+            "extraclass": "information-container-grid--info-container mx-auto mt-20",
+            "paragraphtext": "Innovative Lighting Designs, from their brand portfolio, used customized luminaires from LEC and Heper for the pathway lighting application project by Archohm Consults. The unique lenses designed by LEC for this masterpiece could cover 15m wide stretch with 15m inter distance between the fixtures. Heper make Domino LED Streetlights with custom color and pole design were also used to add historic and heritage touch to the entrance street."
+        },
+        "extraContents": [
+            {
+                "headingid": "02",
+                "headingsize": "small",
+                "headingtext": "ABOUT THE PROJECT",
+                "paragraphtext": "Out of the “Seven Wonder of the World”, Taj Mahal is universally admired and is one of the most fascinating architectural marvels in the world. Built in 1648, it is known for its Mughal architecture where the Taj Mahal is a part of an elaborate complex consisting of decorative entrance gateways, beautifully designed gardens, a mosque and most importantly the Yamuna river situated in the Southern banks of the complex"
+            },
+            {
+                "headingid": "03",
+                "headingsize": "small",
+                "headingtext": "LIGHTING DESIGN INTENT",
+                "paragraphtext": "The focus of the project was to light up the pathway stretch on the Eastern Gate Entrance (also known as Sirhi Darwaza) that faces towards the beautiful Taj nature walk and Fatehabad Town.  A kilometer long stretch consisted of a dedicated pedestrian or Golf Cart stretch. The intent behind the design was to make light as an additive solution acting as an architectural feature in their own right. With the mentioned thought, we used customized stone bollards (just 750mm high to avoid distractions w.r.t the structure) with LEC luminaires.The fixtures were specially designed by LEC for the Mughal masterpiece with unique lenses covering 15m wide stretch with inter distances of 15m. The fixtures used tilted LED board for glare prevention.Further, away from the monument, Heper make Domino LED Streetlights with custom color and pole design were used to add historic and heritage touch to the monument."
+            },
+            {
+                "headingid": "04",
+                "headingsize": "small",
+                "headingtext": "PRODUCTS USED",
+                "paragraphtext": "<ul><li>Custom Product Named Taj Later, LEC</li><li>Domino, Heper</li></ul>"
+            }
+        ]
+    },
+    {
+        "projectId": 4,
+        "type": "",
+        "page": "ProductSingle",
+        "slug": "awadhshilpagram",
+        "thumbnailUrl": "awadhshilpagram_1.png",
+        "heroSection": {
+            "id": "04",
+            "title": "awadhshilpagram",
+            "imageUrl": "awadhshilpagram_1.png",
+            "carouselImages": ["awadhshilpagram_1.png", "awadhshilpagram_2.png", "awadhshilpagram_3.png"],
+            "date": "January 2020"
+        },
+        "galleryImages": ["awadhshilpagram_1.png", "awadhshilpagram_2.png", "awadhshilpagram_3.png"],
+        "headingOne": {
+            "headingid": "01",
+            "headingsize": "small",
+            "headingtext": "Summary",
+            "extraclass": "information-container-grid--info-container mx-auto mt-20",
+            "paragraphtext": "ILD partner brand products from Heper / Aubrilam / Barthelme to light up the urban bazar done by Archohm Consults."
+        },
+        "extraContents": [
+            {
+                "headingid": "02",
+                "headingsize": "small",
+                "headingtext": "ABOUT THE PROJECT",
+                "paragraphtext": "A breezy, beautiful open-air bazar and a home to rich legacy of craftsmanship, Awadhshilpagram by Archohm sprawls across 20 acres of land with curvilinear lines and pathways into a contemporary interpretation of the historic marketplaces. The walled layout is organized in an organic manner saluting the architecture of Rumi Gate and Buland Darwaza. The aim of the architect was to design a platform that appreciates the work of the artisans and helps them to sell and spread their creativity."
+            },
+            {
+                "headingid": "03",
+                "headingsize": "small",
+                "headingtext": "LIGHTING DESIGN INTENT",
+                "paragraphtext": "To compliment the conceptual ideology behind the design, the lighting design intent was to accentuate the intricate details of the structure that imitates the rich culture of the ‘City of Nawabs’. Since there was adequate daylight because of the open structure, our focus shifted to creating vibrant space in the evening. ILD partner brand products from Heper / Aubrilam / Barthelme used to enhance the space."
+            },
+            {
+                "headingid": "04",
+                "headingsize": "small",
+                "headingtext": "PRODUCTS USED",
+                "paragraphtext": "<ul><li>Aubrilam Wooden Poles</li><li>Heper Spot Lights</li><li>Dot-Spot Inground Luminaires</li><li>Barthelme Luminaires</li></ul>"
+            }
+        ]
+    },
+    {
+        "projectId": 5,
+        "type": "",
+        "page": "ProductSingle",
+        "slug": "private_pool_kolkata_residence",
+        "thumbnailUrl": "kolkata_residence_1.png",
+        "heroSection": {
+            "id": "05",
+            "title": "kolkata residence",
+            "imageUrl": "kolkata_residence_1.png",
+            "carouselImages": ["kolkata_residence_1.png", "kolkata_residence_2.png", "kolkata_residence_3.png"],
+            "date": "January 2020"
+        },
+        "galleryImages": ["kolkata_residence_1.png", "kolkata_residence_2.png", "kolkata_residence_3.png"],
+        "headingOne": {
+            "headingid": "01",
+            "headingsize": "small",
+            "headingtext": "Summary",
+            "extraclass": "information-container-grid--info-container mx-auto mt-20",
+            "paragraphtext": "Underwater lighting for private outdoor pool at Kolkata Residence."
+        },
+        "extraContents": [
+            {
+                "headingid": "02",
+                "headingsize": "small",
+                "headingtext": "LIGHITING DESIGN INTENT ",
+                "paragraphtext": "The ideology to light up the peripheral walls of the pool was to create a rhythmic sense of pattern giving a dramatic effect to the pool which in turn compliments the black granite marble used as a material for the same. The linear lights used to define the horizontal surface gives a glowing edge effect enhancing the cool blue color of water. A warm lighting is provided in the backdrop to balance the cool and calm behavior of light in the foreground which altogether blends and helps to retain the social characteristic of the place. To execute the design intent, best possible solution was to design using linear lights to do away with conventional spot lighting thus enhancing the aesthetics of the pool both from interior and exterior surfaces. "
+            },
+            {
+                "headingid": "03",
+                "headingsize": "small",
+                "headingtext": "THINKING SUSTAINABLY",
+                "paragraphtext": "The fixtures used in the project were chlorine protected, chemical abrasive resistant completely submersible with compliance for over 15 different types of tests Barthelme’s Aqualuc Solid range of products make perfect linear underwater luminaires – for sustainable underwater lighting solutions. "
+            },
+            {
+                "headingid": "04",
+                "headingsize": "small",
+                "headingtext": "PRODUCTS USED",
+                "paragraphtext": "<ul><li>Aqualuc Solid, Barthelme</li></ul>"
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "designId": 1,
+        "type": "design_approach",
+        "slug": "analysis",
+        "thumbnailUrl": "picture_19.jpg",
+        "heroSection": {
+            "id": "01",
+            "title": "Delving into trends",
+            "carouselImages": ["picture_19.jpg"],
+            "imageUrl": "picture_19.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "Now, who doesn’t like to strut in vogue? Because we sure do! We like to stay updated with the latest trends in the lighting industry and stay at the top of our game as we tread the path of contemporary lighting. Illuminating spaces and sites fashionably, we make sure you don’t miss out on the latest trends of the modern day! Our goal is to identify the finest methods to optimize your lighting system, while allowing us to understand project requirements and deliverables we use the latest lighting trends allowing us to focus on developing and strategizing the ways to achieve the best results."
+        }
+    },
+    {
+        "designId": 2,
+        "type": "design_approach",
+        "slug": "planning",
+        "thumbnailUrl": "picture_13.jpg",
+        "heroSection": {
+            "id": "02",
+            "title": "Project Planning",
+            "carouselImages": ["picture_13.jpg"],
+            "imageUrl": "picture_13.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "So now that you plan on curating a captivating ambience using the latest lighting trends, we plan on fulfilling your aspirations!"
+        },
+        "extraContents": [
+            {
+                "headingsize": "small",
+                "paragraphtext": "We realize that designing your dream space might be overwhelming, so we love to keep the process smooth and straightforward by listening to and concentrating on your goals and ideas. From there on forth we develop an innovative and inventive strategy with the best viable products central to your aim to create a unique, alluring and intriguing space."
+            }
+        ]
+    }
+]

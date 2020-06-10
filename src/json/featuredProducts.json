@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "type": "featuredProducts",
+        "page": "FeaturedProductSingle",
+        "slug": "orluna",
+        "thumbnailUrl": "orluna.jpg",
+        "heroSection": {
+            "id": "01",
+            "title": "Orluna",
+            "carouselImages": ["orluna.jpg"],
+            "imageUrl": "orluna.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering ambient lighting technology, unravelling the complexities of electric lighting as it evolves in leaps and bounds, keeping pace with the incredible advances in technology – globally…his strength is to keep learning, keep improving both knowledge and skills, he sees it as an everyday challenge. From marketing a few lighting products to single handedly conceiving, creating and implementing giant projects like lighting Heritage Monuments and Sites, including the walkways leading to Taj, the Rumi Gate, the Heritage City of Lucknow and a score of other design projects in the UK, US and Europe!</p><p>From applying his know-how to a few spatial arenas, he with his team has created a virtual lighting think-tank, inspiring people and transforming spaces with light. Director, Strategic Thinker, Designaholic, Lighting Enthusiast at Innovative Lighting Designs Ltd.</p>"
+        }
+    },
+    {
+        "id": 2,
+        "type": "featuredProducts",
+        "page": "FeaturedProductSingle",
+        "slug": "exenia",
+        "thumbnailUrl": "exenia.jpg",
+        "heroSection": {
+            "id": "02",
+            "title": "exenia",
+            "carouselImages": ["exenia.jpg"],
+            "imageUrl": "exenia.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering ambient lighting technology, unravelling the complexities of electric lighting as it evolves in leaps and bounds, keeping pace with the incredible advances in technology – globally…his strength is to keep learning, keep improving both knowledge and skills, he sees it as an everyday challenge. From marketing a few lighting products to single handedly conceiving, creating and implementing giant projects like lighting Heritage Monuments and Sites, including the walkways leading to Taj, the Rumi Gate, the Heritage City of Lucknow and a score of other design projects in the UK, US and Europe!</p><p>From applying his know-how to a few spatial arenas, he with his team has created a virtual lighting think-tank, inspiring people and transforming spaces with light. Director, Strategic Thinker, Designaholic, Lighting Enthusiast at Innovative Lighting Designs Ltd.</p>"
+        }
+    },
+    {
+        "id": 3,
+        "type": "featuredProducts",
+        "page": "FeaturedProductSingle",
+        "slug": "heper",
+        "thumbnailUrl": "heper.jpg",
+        "heroSection": {
+            "id": "03",
+            "title": "heper",
+            "carouselImages": ["heper.jpg"],
+            "imageUrl": "heper.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering ambient lighting technology, unravelling the complexities of electric lighting as it evolves in leaps and bounds, keeping pace with the incredible advances in technology – globally…his strength is to keep learning, keep improving both knowledge and skills, he sees it as an everyday challenge. From marketing a few lighting products to single handedly conceiving, creating and implementing giant projects like lighting Heritage Monuments and Sites, including the walkways leading to Taj, the Rumi Gate, the Heritage City of Lucknow and a score of other design projects in the UK, US and Europe!</p><p>From applying his know-how to a few spatial arenas, he with his team has created a virtual lighting think-tank, inspiring people and transforming spaces with light. Director, Strategic Thinker, Designaholic, Lighting Enthusiast at Innovative Lighting Designs Ltd.</p>"
+        }
+    },
+    {
+        "id": 4,
+        "type": "featuredProducts",
+        "page": "FeaturedProductSingle",
+        "slug": "barthelme",
+        "thumbnailUrl": "barthelme.jpg",
+        "heroSection": {
+            "id": "04",
+            "title": "barthelme",
+            "carouselImages": ["barthelme.jpg"],
+            "imageUrl": "barthelme.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering ambient lighting technology, unravelling the complexities of electric lighting as it evolves in leaps and bounds, keeping pace with the incredible advances in technology – globally…his strength is to keep learning, keep improving both knowledge and skills, he sees it as an everyday challenge. From marketing a few lighting products to single handedly conceiving, creating and implementing giant projects like lighting Heritage Monuments and Sites, including the walkways leading to Taj, the Rumi Gate, the Heritage City of Lucknow and a score of other design projects in the UK, US and Europe!</p><p>From applying his know-how to a few spatial arenas, he with his team has created a virtual lighting think-tank, inspiring people and transforming spaces with light. Director, Strategic Thinker, Designaholic, Lighting Enthusiast at Innovative Lighting Designs Ltd.</p>"
+        }
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "serviceId": 1,
+        "type": "services",
+        "slug": "client_centric",
+        "thumbnailUrl": "picture_15.jpg",
+        "heroSection": {
+            "id": "01",
+            "title": "Client Centric Approach",
+            "carouselImages": ["picture_15.jpg"],
+            "imageUrl": "picture_15.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "From concept to creation is what we believe in and since we are a design and technologically fixated entity, we utilize our technical and design adeptness in architectural, heritage, commercial, hospitality, residential, landscape and public spaces lighting."
+        },
+        "extraContents": [
+            {
+                "headingsize": "small",
+                "paragraphtext": "We have been offering some of the most ambitious and ardent architects, interior designers and lighting designers with the most progressive and enticing products and lighting solutions."
+            },
+            {
+                "headingsize": "small",
+                "paragraphtext": "We at ILDL follow a client centric approach which allows us to cater to each client’s taste and with our comprehensive expertise and experience, our team is accessible and available for the convenience of the clients with thorough technical information from all our product partners. ILDL is always evolving and we endeavor to provide complete assistance with schematic and technical drawings, lux level calculations, renderings and bespoke solutions. All our services are available in-house and always fixated on your goals."
+            }
+        ]
+    },
+    {
+        "serviceId": 2,
+        "type": "services",
+        "slug": "our_expertise",
+        "thumbnailUrl": "picture_16.jpg",
+        "heroSection": {
+            "id": "02",
+            "title": "Our Expertise",
+            "carouselImages": ["picture_16.jpg"],
+            "imageUrl": "picture_16.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "With our competence and expertise in the field of aesthetic and esthetic lighting, we strive to provide technically most apt, avant-garde and efficient lighting solutions to our clients, and hence, we have partnered up as exclusive distributors for many of the leading lighting manufacturers in the world."
+        },
+        "extraContents": [
+            {
+                "headingsize": "small",
+                "paragraphtext": "Having a portfolio with a plethora of pioneering international brands in lighting, ILDL can offer cutting edge products, solutions and technologies with unique timeless lighting products and solutions striving to make each project standout. We at ILDL love to evolve, so we are always incorporating and offering the latest technologies for lighting automation such BLE (Bluetooth low energy), POE (Power Over Ethernet) and technologies such as LensVector (Beam shapeable controllable lenses) thus laying the framework for future applications in IoT. ILDL endeavors to learn and understand such advanced technologies, products and solutions in the field of lighting and strive to be the pioneers to introduce and launch the same."
+            }
+        ]
+    },
+    {
+        "serviceId": 3,
+        "type": "services",
+        "slug": "mock_up",
+        "thumbnailUrl": "picture_17.jpg",
+        "heroSection": {
+            "id": "03",
+            "title": "MOCK-UP",
+            "carouselImages": ["picture_17.jpg"],
+            "imageUrl": "picture_17.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "ILDL realizes the priority of a real time quality mock-up, which we believe is crucial for any project where applications or products are used in an inventive and innovative way."
+        },
+        "extraContents": [
+            {
+                "headingsize": "small",
+                "paragraphtext": "Real Time mock-ups epitomize the effect of the desired applications, allowing us to bride the designer’s concept to creation while ensuring the lighting system’s performance as required on site."
+            },
+            {
+                "headingsize": "small",
+                "paragraphtext": "Based on project requirements, we can install a section of the lighting system on site and program it to fulfill the designer’s and client’s provisions, facilitating us and them to review and strategize to make adjustments before commitment."
+            }
+        ]
+    },
+    {
+        "serviceId": 4,
+        "type": "services",
+        "slug": "installation",
+        "thumbnailUrl": "picture_18.jpg",
+        "heroSection": {
+            "id": "04",
+            "title": "INSTALLATION",
+            "carouselImages": ["picture_18.jpg"],
+            "imageUrl": "picture_18.jpg"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "We at ILDL are a passionate bunch of dedicated individuals who intend to provide an effortless and comfortable experience to you, so it is vital for us to ensure that the brands we represent are installed to the standards set out by the manufacturers, designers and electrical regulations."
+        },
+        "extraContents": [
+            {
+                "headingsize": "small",
+                "paragraphtext": "ILDL has a team of ardent and dedicated engineers trained and experienced in complete lighting system installations. Our clients savor our competence, trust and professional commitment because in spite of the challenge of the project, we always endeavor to fulfill their vision."
+            },
+            {
+                "headingsize": "small",
+                "paragraphtext": "We ensure the correct installations of the lighting systems to bridge the specifications of the designer and the product manufacturers, because flawlessly installed system always ensures the long service and reliability of the lighting system."
+            }
+        ]
+    }
+]

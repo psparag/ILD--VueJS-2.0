@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "type": "featured",
+        "page": "TeamSingle",
+        "slug": "vikram_jain",
+        "thumbnailUrl": "vikram_jain.png",
+        "designation": "Director – Marketing",
+        "heroSection": {
+            "id": "01",
+            "title": "vikram jain",
+            "carouselImages": ["vikram_jain.png"],
+            "imageUrl": "vikram_jain.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering ambient lighting technology, unravelling the complexities of electric lighting as it evolves in leaps and bounds, keeping pace with the incredible advances in technology – globally…his strength is to keep learning, keep improving both knowledge and skills, he sees it as an everyday challenge. From marketing a few lighting products to single handedly conceiving, creating and implementing giant projects like lighting Heritage Monuments and Sites, including the walkways leading to Taj, the Rumi Gate, the Heritage City of Lucknow and a score of other design projects in the UK, US and Europe!</p><p>From applying his know-how to a few spatial arenas, he with his team has created a virtual lighting think-tank, inspiring people and transforming spaces with light. Director, Strategic Thinker, Designaholic, Lighting Enthusiast at Innovative Lighting Designs Ltd.</p>"
+        }
+    },
+    {
+        "id": 2,
+        "type": "featured",
+        "page": "TeamSingle",
+        "slug": "preeti_jain",
+        "thumbnailUrl": "preeti_jain.png",
+        "designation": "Director",
+        "heroSection": {
+            "id": "02",
+            "title": "PREETI JAIN",
+            "carouselImages": ["preeti_jain.png"],
+            "imageUrl": "preeti_jain.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Designaholic, amateur interior designer, gregarious, determined, positive, compassionate, and getting on well with all kinds of people : there are the phrases that describe her well.</p><p>Her ideology is to keep everything she does to be well-organized and continue to follow her passion, which is influenced by her eagerness to learn.</p><p>From her belief in a fairytale-like lifestyle to the same in happy endings, from loving the colour red, to her constant craving for rajma chawal: she is a sociable person.</p><p>She got into lighting back in 1993 because of her passion for decorating homes and spaces as she believed that lighting adds style to the decor. During her journey, as she developed a deeper and richer understanding of lighting and its aspects, she became aware of the fact that lighting plays a more important role in interior designing, with its ability to enhance the aesthetic appeal and creates the mood and ambiance of a living space. Not only does it illuminate a room, but also fosters a safe and comfortable environment. </p><p>It makes her extremely proud to be a part of the innovative team as innovative conceives, creates and implements lighting. The team here believes in virtual lighting think-tank, inspiring people and transforming spaces with light.</p>"
+        }
+    },
+    {
+        "id": 3,
+        "type": "featured",
+        "page": "TeamSingle",
+        "slug": "rubail_khanna",
+        "thumbnailUrl": "rubail_khanna.png",
+        "designation": "Director",
+        "heroSection": {
+            "id": "03",
+            "title": "RUBAIL KHANNA",
+            "carouselImages": ["rubail_khanna.png"],
+            "imageUrl": "rubail_khanna.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Logical, attentive, committed, empathetic</p><p>With the caliber of finance and numbers, he works on the accounting aspect of the work. He is someone who focuses on the task at hand with no tolerance for distractions, pushing himself and others to achieve more and more. He tends to be easy to approach and sensitive to other’s needs. Building his understanding of colleagues and work at hand, he is able to work successfully.</p><p>His passion sprung my family business, where he first got associated with finance and my ability flourished. Now, numbers are like his friends. Apart from work and numbers, he believes that food is one of life's gifts. He mainly enjoys Indian food and there is no limit when it comes to food – he would love to introduce others to food and enjoy others' company when doing so.</p>"
+        }
+    },
+    {
+        "id": 4,
+        "type": "featured",
+        "page": "TeamSingle",
+        "slug": "prashant_bhatia",
+        "thumbnailUrl": "prashant_bhatia.png",
+        "designation": "Country Head – Specification Sales",
+        "heroSection": {
+            "id": "04",
+            "title": "PRASHANT BHATIA",
+            "carouselImages": ["prashant_bhatia.png"],
+            "imageUrl": "prashant_bhatia.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A true patriot and a believer, Prashant leads the Marketing team at Innovative. Being a disciplined chap, he possesses all the qualities of a leader and is impulsive. He believes that no stones can be left unturned if you truly have the desire to excel. A true inspiration for the rest of the co-workers, Prashant is an amateur chef and a fitness enthusiast who loves nature to the core. He believes that a sound mind and body performs better.</p>"
+        }
+    },
+    {
+        "id": 5,
+        "type": "featured",
+        "page": "TeamSingle",
+        "slug": "vinay_verma",
+        "thumbnailUrl": "vinay_verma.png",
+        "designation": "Asst. Manager – Specification Sales",
+        "heroSection": {
+            "id": "05",
+            "title": "VINAY VERMA",
+            "carouselImages": ["vinay_verma.png"],
+            "imageUrl": "vinay_verma.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A multi-tasker and a competitive being, Vinay assists the Marketing team at Innovative. His will to work for hours without complaining and meeting his deadlines on time have established him as a hard working chap in the company. He sets a perfect example of balancing work and personal life. A big time foodie who likes to experiment with dishes is what he can be creative at. A passionate photographer who loves to stay fit and explore new places. His mantra is to spread positivity all around.</p>"
+        }
+    },
+    {
+        "id": 6,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "judith_castellino",
+        "thumbnailUrl": "judith_castellino.png",
+        "designation": "Sr. Regional Manager – West",
+        "heroSection": {
+            "id": "06",
+            "title": "JUDITH CASTELLINO",
+            "carouselImages": ["judith_castellino.png"],
+            "imageUrl": "judith_castellino.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Typical Cancerian by nature, Judith possesses all the qualities of a loving, caring and loyal being. She completed her education back in the 80s and has evolved with time realizing the need to adapt to change in surroundings. Music is her true stress buster and despite her busy work schedule, finds time to read novels. She believes in the concept of women empowerment. To entice her – all you need to do is make her watch a nice thriller movie.</p>"
+        }
+    },
+    {
+        "id": 7,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "kunal_sharma",
+        "thumbnailUrl": "kunal_sharma.png",
+        "designation": "Asst. Sales Manager - Marketing",
+        "heroSection": {
+            "id": "07",
+            "title": "KUNAL SHARMA",
+            "carouselImages": ["kunal_sharma.png"],
+            "imageUrl": "kunal_sharma.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Starting his journey as a customer service representative, Kunal decided to take up Marketing as his forte. His experience in the classical sales and brand promotion field has helped Innovative to add a new branch to the family tree. Besides the busy schedule, he finds time to blog for HT Brunch and voice his opinion about the write-ups. A social being at heart, he likes to surround himself with bright and knowledgeable minds.</p>"
+        }
+    },
+    {
+        "id": 8,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "anchal_khandelwal",
+        "thumbnailUrl": "anchal_khandelwal.png",
+        "designation": "Asst. Manager – Business Development",
+        "heroSection": {
+            "id": "08",
+            "title": "ANCHAL KHANDELWAL",
+            "carouselImages": ["anchal_khandelwal.png"],
+            "imageUrl": "anchal_khandelwal.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A MSc Management graduate from the University Of Leeds, Anchal is all motivated to work in the Market and Industry Analysis sector. Her experience while working in close relationship with customers and managing direct supply chains of the public stores in the United Kingdom, has made an addition in this field. She possesses an analytical whiz with problem solving skills. Loves to roll on Jazz music, travel is something she is passionate about. Having explored 14 countries, she intends to add on more in her itinerary</p>"
+        }
+    },
+    {
+        "id": 9,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "anuja_gupte",
+        "thumbnailUrl": "anuja_gupte.png",
+        "designation": "Asst. Manager – Business Development",
+        "heroSection": {
+            "id": "09",
+            "title": "ANUJA GUPTE",
+            "carouselImages": ["anuja_gupte.png"],
+            "imageUrl": "anuja_gupte.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>An MBA Degree holder with fluency in 8 languages has proficiency in Digital Media, Market Research and Public Speaking. Anuja is a marketing enthusiast who loves to write. She has keen interest in branding, communication and advertising. Being a classical dancer and a blogger on various educational forums, she has a strong affinity towards social service and nature. A romantic movie with a tub of ice-cream can make this romantic sweetheart fall in love. “Not failure but low aim is a crime” is her professional mantra.</p>"
+        }
+    },
+    {
+        "id": 10,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "aishwarya_umashakar",
+        "thumbnailUrl": "aishwarya_umashankar.png",
+        "designation": "Asst. Manager – Business Development",
+        "heroSection": {
+            "id": "10",
+            "title": "AISHWARYA UMASHANKAR",
+            "carouselImages": ["aishwarya_umashankar.png"],
+            "imageUrl": "aishwarya_umashankar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A great nation is built only due to good human beings and the foundation for good human beings is laid by school. This idea is the key for Aishwarya. She is an Electronics and Tele-Communication engineer from Pune University. She likes to Interact and talk to people and believes that her mind is broadened only when ideas are exchanged. A brown belt Karate Champ who also enjoys playing piano and violin has worked with various NGOs in the education sector for the upliftment of the society.</p>"
+        }
+    },
+    {
+        "id": 11,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "sreenita_pain",
+        "thumbnailUrl": "sreenita_pain.png",
+        "designation": "Sales Engineer",
+        "heroSection": {
+            "id": "11",
+            "title": "SREENITA PAIN",
+            "carouselImages": ["sreenita_pain.png"],
+            "imageUrl": "sreenita_pain.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Having few years of experience in the Lighting Industry, Sreenita is all head-on-toe for this field. She enjoys lighting up spaces which is reflected through her work and is a responsible employee. A dedicated chap who believes in learning from mistakes and tries to cope back. Her happy-go-lucky humorous attitude keeps the staff motivated and driven. Hailing from Kolkata, she enjoys folk music and Rabindrasangeet. A big fan of detective stories.</p>"
+        }
+    },
+    {
+        "id": 12,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "vishal_goel",
+        "thumbnailUrl": "vishal_goel.png",
+        "designation": "Liaison & Compliance Manager",
+        "heroSection": {
+            "id": "12",
+            "title": "VISHAL GOEL",
+            "carouselImages": ["vishal_goel.png"],
+            "imageUrl": "vishal_goel.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Planning to expand the company in various other sectors, Vishal works with Bureau of Indian Standards to get the products ISI Certified as per the standards. His confidence and positive approach to reach new heights proves to be an asset for the company. He truly believes in team work and sincerity. Following his interests, he loves to listen to music and travel. A true helpful being who likes to coordinate and organize events.</p>"
+        }
+    },
+    {
+        "id": 13,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "pritam_bhawal",
+        "thumbnailUrl": "pritam_bhawal.png",
+        "designation": "Lighting Designer",
+        "heroSection": {
+            "id": "13",
+            "title": "PRITAM BHAWAL",
+            "carouselImages": ["pritam_bhawal.png"],
+            "imageUrl": "pritam_bhawal.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Mastering his design and technical skills, Pritam has successfully added a bunch of good Lighting Design projects in Innovative’s portfolio.  His clarity of vision and focused approach towards his work has inspired other aspiring designers to ‘think out of the box’. He, despite having an imaginative world, successfully manages to execute the thought with his mastered technical skills. A simple at heart being, who loves to share his knowledge has great listening skills and actively participates in group discussions. He is a true pet lover and loves to paint, sketch and listen Scandinavian music. To him World is Light and Dark and efforts are either 100% or 0%, nothing half hearted.</p>"
+        }
+    },
+    {
+        "id": 14,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "deepak_kumar",
+        "thumbnailUrl": "deepak_kumar.png",
+        "designation": "Lighting Design Visualizer",
+        "heroSection": {
+            "id": "14",
+            "title": "DEEPAK KUMAR",
+            "carouselImages": ["deepak_kumar.png"],
+            "imageUrl": "deepak_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>The Photoshop Master who pens down ideas from a pool of imagination into design with his masters in rendering. Deepak’s passion for creating something new creates an aura which inspires the other employees to break their shell of restrictions. He believes that one cannot gain confidence through online classes or institutions but can only gain from self-introspection. He loves to make others happy and is a full fledged example of a generous human.</p>"
+        }
+    },
+    {
+        "id": 15,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "upasana_sharma",
+        "thumbnailUrl": "upasana_sharma.png",
+        "designation": "Asst. Manager – B.D. & Designs",
+        "heroSection": {
+            "id": "15",
+            "title": "UPASANA SHARMA",
+            "carouselImages": ["upasana_sharma.png"],
+            "imageUrl": "upasana_sharma.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A lighting enthusiast and an architect by profession, Upasana decided to pursue her passion as her career. She believes that no matter how beautifully designed a structure is, it will require light to mark its identity when there is no daylight and so with this thought she stepped in the field of Architectural Lighting Design. A sportsperson having represented India at National Levels in Netball and Basketball, she possesses all the qualities of a team player and team leader. Her strong attention to details and conceptual presentations have raised the bar of creativity, innovation and uniqueness. She is inspired by a Danish architect Bjarke Ingels and shares similar design ideologies. “If a thing doesn’t challenge you, it doesn’t change you” is her life mantra.</p>"
+        }
+    },
+    {
+        "id": 16,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "ankul_kumar",
+        "thumbnailUrl": "ankul_kumar.png",
+        "designation": "Manager – Services",
+        "heroSection": {
+            "id": "16",
+            "title": "ANKUL KUMAR",
+            "carouselImages": ["ankul_kumar.png"],
+            "imageUrl": "ankul_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A self-motivated avid learner, Ankul has an Electronics Engineering background. Having said so, his technical mastery makes his way of approach towards a solution more detail oriented. He possesses a quiet and calm behavior and takes out time to pen down his words as a hobby. This obedient and sincere fellow likes to read, learn new things and travel.</p>"
+        }
+    },
+    {
+        "id": 17,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "gulshan_kumar",
+        "thumbnailUrl": "gulshan_kumar.png",
+        "designation": "Draughtsman",
+        "heroSection": {
+            "id": "17",
+            "title": "GULSHAN KUMAR",
+            "carouselImages": ["gulshan_kumar.png"],
+            "imageUrl": "gulshan_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A strong opinion holder, Gulshan has clear principles for his life. With his experience in the field of drafting, his scope of work includes drafting of technical drawings and calculations. Not much interactive, his ideology is to talk less and work more. Despite the busy work schedule, he manages to take out time for his hobby i.e. playing cricket.</p>"
+        }
+    },
+    {
+        "id": 18,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "rajesh_kumar",
+        "thumbnailUrl": "rajesh_kumar.png",
+        "designation": "Sales & Marketing Coordinator",
+        "heroSection": {
+            "id": "18",
+            "title": "RAJESH KUMAR",
+            "carouselImages": ["rajesh_kumar.png"],
+            "imageUrl": "rajesh_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Rajesh is amongst the senior members of the company. He coordinates with the marketing team at Innovative. An independent player, he has a positive approach towards work and is likely to handover the work to you with perfection. Old Bollywood songs can make him move. His patience and polite nature is his USP.</p>"
+        }
+    },
+    {
+        "id": 19,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "ranjay_mishra",
+        "thumbnailUrl": "ranjay_mishra.png",
+        "designation": "Accounts Manager",
+        "heroSection": {
+            "id": "19",
+            "title": "RANJAY MISHRA",
+            "carouselImages": ["ranjay_mishra.png"],
+            "imageUrl": "ranjay_mishra.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>He is handling the accounts at Innovative and worships his work like God. He is always keen to find solutions to new challenges and delivers work with full responsibility. An honest and loyal fellow, he likes imparting his gained knowledge and discussing current affairs. Politics is a sensitive subject for him to comment on. He likes listening to bhajans and is a true devotee. Visiting spiritual places is something he finds his peace at.</p>"
+        }
+    },
+    {
+        "id": 20,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "naresh_sabhrawal",
+        "thumbnailUrl": "naresh_sabhrawal.png",
+        "designation": "Purchase Manager",
+        "heroSection": {
+            "id": "20",
+            "title": "NARESH SABHRAWAL",
+            "carouselImages": ["naresh_sabhrawal.png"],
+            "imageUrl": "naresh_sabhrawal.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A loyal, humble and helping person, Naresh is responsible for buying or approving the acquisition of goods and services needed by the company. A calm minded person, he likes to listen to music and is focussed in his work.  Besides being stuffed with work, he finds out time to interact and have healthy discussions with employees.</p>"
+        }
+    },
+    {
+        "id": 21,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "virender_kumar",
+        "thumbnailUrl": "virender_kumar.png",
+        "designation": "Admin",
+        "heroSection": {
+            "id": "21",
+            "title": "VIRENDER KUMAR",
+            "carouselImages": ["virender_kumar.png"],
+            "imageUrl": "virender_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Virender manages the admin dept. of the company. From attending calls, to dispatching products to attending visitors in the office, he is too much loaded with the overall management of the company. Believes in working more and is talkative too. He always does his work with a smile and no matter how big the problem is, all you can see him do is handle it with a smile. He is the first person whom you always come up with a problem be it computer damage or any other issue. His honesty, sweetness and responsible behavior is appreciated by all.</p>"
+        }
+    },
+    {
+        "id": 22,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "sheetal_verma",
+        "thumbnailUrl": "sheetal_verma.png",
+        "designation": "Backed Sales Coordinator",
+        "heroSection": {
+            "id": "22",
+            "title": "SHEETAL VERMA",
+            "carouselImages": ["sheetal_verma.png"],
+            "imageUrl": "sheetal_verma.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A helping and a responsible being - Sheetal works as an office assistant in the company. Despite being good with nos., she has a creative side too. A bubbly-talkative person who is honest with everything she does makes her an adorable member of the Innovative family. Her hobby consists of cooking delicious recipes which makes the staff look forward to her lunch. Arijit Singh tops her favorite artist chart when it comes to music.</p>"
+        }
+    },
+    {
+        "id": 23,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "hardeep_singh",
+        "thumbnailUrl": "hardeep_singh.png",
+        "designation": "Store Manager",
+        "heroSection": {
+            "id": "23",
+            "title": "HARDEEP SINGH",
+            "carouselImages": ["hardeep_singh.png"],
+            "imageUrl": "hardeep_singh.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Working Independently, with confidence and positive approach are my biggest strengths.</p><p>Believes that if we do anything with a positive approach, we will definitely get success in it. Has the ability to do more work in a short time, but still wants to keep on learning as there is no limit to that.</p><p>Likes simple living and simple eating. Loves playing, watching cricket and reading historical articles. He loves listening to Gurbanis, Sufi Sangeet and old Bollywood songs. Satinder Sartaj is my favorite Sufi Singer. He does not like to talk much and go outside. His mantra : Good and bad times are a part of life, never give up hopes. Keep on working sincerely, then no one can stop us from moving forward. </p>"
+        }
+    },
+    {
+        "id": 24,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "jay_prakash_gupta",
+        "thumbnailUrl": "jay_prakash_gupta.png",
+        "designation": "Technician",
+        "heroSection": {
+            "id": "24",
+            "title": "JAY PRAKASH GUPTA",
+            "carouselImages": ["jay_prakash_gupta.png"],
+            "imageUrl": "jay_prakash_gupta.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Demonstrates true example of hard- work and team spirit. Likes doing technical duty and has very strong concepts in that. Like to listen to music and play cricket. Believes one should do everything in life to learn and grow.</p>"
+        }
+    },
+    {
+        "id": 25,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "mohit_rana",
+        "thumbnailUrl": "mohit_rana.png",
+        "designation": "Technician",
+        "heroSection": {
+            "id": "25",
+            "title": "MOHIT RANA",
+            "carouselImages": ["mohit_rana.png"],
+            "imageUrl": "mohit_rana.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Started his job as a technician, assembling and service support. He wants to learn and grow within his field and develop new skills, and enjoys taking new challenges that keeps him on his toes (excitement in learning). A good cook, likes being creative and experimenting with new dishes. He loves playing cricket, listening to music and dancing.</p>"
+        }
+    },
+    {
+        "id": 26,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "mohit_sharma",
+        "thumbnailUrl": "mohit_sharma.png",
+        "designation": "Technician",
+        "heroSection": {
+            "id": "26",
+            "title": "MOHIT SHARMA",
+            "carouselImages": ["mohit_sharma.png"],
+            "imageUrl": "mohit_sharma.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Hard-working also does every work with honesty. Started his job as a technician and loves his work. Like to learn new things. A simple human who likes playing & watching cricket and listening to old songs. Always motivated and inspired to work and grow.</p>"
+        }
+    },
+    {
+        "id": 27,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "akshay_kumar",
+        "thumbnailUrl": "akshay_kumar.png",
+        "designation": "Service Support",
+        "heroSection": {
+            "id": "27",
+            "title": "AKSHAY KUMAR",
+            "carouselImages": ["akshay_kumar.png"],
+            "imageUrl": "akshay_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Into cheque clearances of the company and delivers goods when asked to. Charming with his humor, likes to play cricket and listen to music. A sincere and dedicated chap who sticks strictly to the given instructions. A trustworthy employee.</p>"
+        }
+    },
+    {
+        "id": 28,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "vijay_kumar",
+        "thumbnailUrl": "vijay_kumar.png",
+        "designation": "Service Support",
+        "heroSection": {
+            "id": "28",
+            "title": "VIJAY KUMAR",
+            "carouselImages": ["vijay_kumar.png"],
+            "imageUrl": "vijay_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Into cheque clearances of the company and delivers goods when asked to. He likes to play badminton and cricket. Always active, likes to do his duty with full dedication and is a responsible being.</p>"
+        }
+    },
+    {
+        "id": 29,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "bishu_kumar",
+        "thumbnailUrl": "bishu_kumar.png",
+        "designation": "Technician",
+        "heroSection": {
+            "id": "29",
+            "title": "BISHU KUMAR",
+            "carouselImages": ["bishu_kumar.png"],
+            "imageUrl": "bishu_kumar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Started job as technician, assembling and site visit, service support. I like to do every task with hard work and dedication. I enjoy new challenges and would like to meet new challenges.He loves his work, loves to cycle in nice windy weather and listen to music too. </p>"
+        }
+    },
+    {
+        "id": 30,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "munna_yadav",
+        "thumbnailUrl": "munna_yadav.png",
+        "designation": "Technician",
+        "heroSection": {
+            "id": "30",
+            "title": "MUNNA YADAV",
+            "carouselImages": ["munna_yadav.png"],
+            "imageUrl": "munna_yadav.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Started working as a technician. He likes to do every work with sincerity and dedication. Loves watching TV and listening to songs.</p>"
+        }
+    },
+    {
+        "id": 31,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "krish_kumar_ray",
+        "thumbnailUrl": "krish_kumar_ray.png",
+        "designation": "Support Staff",
+        "heroSection": {
+            "id": "31",
+            "title": "KRISH KUMAR RAY",
+            "carouselImages": ["krish_kumar_ray.png"],
+            "imageUrl": "krish_kumar_ray.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Krish, an extremely talented young guy, works as a pantry guy at Innovative. His service to the staff is commendable. A gem of a person, he is appreciated and adored by everyone. A good observer and less talkative chap likes to learn and actively take part in group discussions. He is good with learning and once instructed, does not tend to forget things. Never complaining and always smiling, he likes to see others happy too.</p>"
+        }
+    },
+    {
+        "id": 32,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "gaurav_singh thapa",
+        "thumbnailUrl": "gaurav_singh thapa.png",
+        "designation": "Support Staff",
+        "heroSection": {
+            "id": "32",
+            "title": "GAURAV SINGH THAPA",
+            "carouselImages": ["gaurav_singh thapa.png"],
+            "imageUrl": "gaurav_singh thapa.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>A talkative social being who has strong viewpoints be it politics, or religion. He is clear with his thoughts and likes to talk for hours. A sweet humble being, Gaurav is like our guardian angel who serves with his will and never denies any work if given to him. A pure sweet soul is not much into technology or gadgets and is a very simple being. Likes to hymn on old songs.</p>"
+        }
+    },
+    {
+        "id": 33,
+        "type": "",
+        "page": "TeamSingle",
+        "slug": "jaywant_sitaram_sadvilkar",
+        "thumbnailUrl": "jaywant_sitaram_sadvilkar.png",
+        "designation": "Support Staff",
+        "heroSection": {
+            "id": "33",
+            "title": "JAYWANT SITARAM SADVILKAR",
+            "carouselImages": ["jaywant_sitaram_sadvilkar.png"],
+            "imageUrl": "jaywant_sitaram_sadvilkar.png"
+        },
+        "headingOne": {
+            "headingsize": "small",
+            "paragraphtext": "<p>Jaywant, an extremely hard-working person who likes to serve everybody and bring a smile to everyone’s face. A sweet, cooperative being who never complains and is always ready to do whatever duty he has been assigned off. A simple being who just likes to impart and gain knowledge and grow everyday.</p>"
+        }
+    }
+]
