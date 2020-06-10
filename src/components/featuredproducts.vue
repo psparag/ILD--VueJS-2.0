@@ -10,7 +10,12 @@
       <div class="feature-partner-section-grid-text--wrapper">
         <p
           class="featured-partner-heading text-lg text-gray-700 text-left feature-partner-section-grid-row2-grid-column1--heading smli-font uppercase letter-spacing-4"
+          v-if="gridDataRight"
         >Featured products from partners</p>
+        <p
+          class="featured-partner-heading text-lg text-gray-700 text-left feature-partner-section-grid-row2-grid-column1--heading smli-font uppercase letter-spacing-4"
+          v-if="gridDataLeft"
+        >Featured projects from partners</p>
         <div class="feature-partner-section-grid-row2-grid-column1--grid">
           <div v-for="data in featuredData" :key="data.id" class="feature-project-1">
             <router-link
