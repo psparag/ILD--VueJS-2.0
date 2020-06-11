@@ -60,8 +60,7 @@
                         <AppButton v-bind:buttondata="buttondata1"></AppButton>
                         <div class="gallery-browse-button w-64 mx-auto text-center">
                           <button
-                            class="custom-cursor-none w-full focus:outline-none"
-                            @click="scrollTofooter"
+                            class="custom-cursor-none w-full focus:outline-none scrollTofooter"
                           >
                             <div
                               class="bg-gray-200 temp-button overflow-hidden animate-link button-hover-animation h-16 relative text-xs leading-none uppercase letter-spacing-2"
@@ -97,9 +96,6 @@
 </template>
 
 <script>
-import gsap from "gsap";
-import { ScrollToPlugin } from "gsap/all";
-gsap.registerPlugin(ScrollToPlugin);
 // import appbutton from "../components/appbutton"
 import productcarousel from "../components/productcarousel";
 import appbutton from "../components/appbutton.vue";
@@ -117,8 +113,6 @@ import featuredProjectsData from "../json/featuredProjects.json";
 export default {
   name: "home",
   mixins: [testmixins],
-  gsap: [gsap],
-  ScrollToPlugin: [ScrollToPlugin],
   components: {
     // AppButton: appbutton,
     productcarousel: productcarousel,
@@ -209,13 +203,6 @@ export default {
     }
   },
   methods: {
-    scrollTofooter: function() {
-      gsap.to(window, {
-        duration: 1.5,
-        scrollTo: { y: ".ild-footer-container", offsetY: 0 },
-        ease: "power2.in"
-      });
-    },
     getImgUrl: function(img) {
       return require("../assets/img/" + img);
     },
