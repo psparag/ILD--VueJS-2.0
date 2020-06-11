@@ -786,6 +786,20 @@ body {
         padding-top: 100px;
     }
 }
+@media (max-width:717px){
+     .footer-content-grid-col-2{
+        grid-template-columns: 1fr;
+        grid-row-gap: 100px;
+    }
+    .form-container{
+        width: 100%;
+    }
+    .footer-content{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
 @media (max-width: 480px) {
     .hero-section-container {
         -webkit-transform: rotate(-90deg) translate(-60px, 0px);
