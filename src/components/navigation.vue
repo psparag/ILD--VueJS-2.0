@@ -38,34 +38,34 @@
               <h1
                 class="uppercase smli-font mx-auto text-white opacity-30 menu-animation animate-link"
               >
-                <router-link class="custom-cursor-none" to="/team">Team</router-link>
+                <router-link class="custom-cursor-none" to="/">Contact</router-link>
               </h1>
             </div>
           </div>
         </div>
         <div class="menu-container-content--rotating-pictures absolute">
           <img
-            src="@/assets/img/1.jpg"
+            src="@/assets/img/picture_11.jpg"
             alt
             class="absolute image animation-rotation object-cover opacity-0"
           />
           <img
-            src="@/assets/img/2.jpg"
+            src="@/assets/img/picture_14.jpg"
             alt
             class="absolute image animation-rotation object-cover opacity-0"
           />
           <img
-            src="@/assets/img/3.jpg"
+            src="@/assets/img/lodha_group_2.png"
             alt
             class="absolute image animation-rotation object-cover opacity-0"
           />
           <img
-            src="@/assets/img/4.jpg"
+            src="@/assets/img/orluna.jpg"
             alt
             class="absolute image animation-rotation object-cover opacity-0"
           />
           <img
-            src="@/assets/img/3.jpg"
+            src="@/assets/img/picture_16.jpg"
             alt
             class="absolute image animation-rotation object-cover opacity-0"
           />
