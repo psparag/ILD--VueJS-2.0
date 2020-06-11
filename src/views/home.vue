@@ -58,7 +58,28 @@
                     <div class="custom-padding-top-100">
                       <div class="button-grid--home mx-auto">
                         <AppButton v-bind:buttondata="buttondata1"></AppButton>
-                        <AppButton v-bind:buttondata="buttondata2"></AppButton>
+                        <div class="gallery-browse-button w-64 mx-auto text-center">
+                          <button
+                            class="custom-cursor-none w-full focus:outline-none"
+                            @click="scrollTofooter"
+                          >
+                            <div
+                              class="bg-gray-200 temp-button overflow-hidden animate-link button-hover-animation h-16 relative text-xs leading-none uppercase letter-spacing-2"
+                            >
+                              <div class="bg-black button-background z-0 absolute bottom-0 left-0"></div>
+                              <div
+                                class="button-first-text-container overflow-hidden h-4 w-64 absolute text-center"
+                              >
+                                <p class="text-black button-first-text">Get In touch with us</p>
+                              </div>
+                              <div
+                                class="button-second-text-container overflow-hidden h-4 w-64 absolute text-center"
+                              >
+                                <p class="text-white button-second-text">Go ahead !</p>
+                              </div>
+                            </div>
+                          </button>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -76,6 +97,9 @@
 </template>
 
 <script>
+import gsap from "gsap";
+import { ScrollToPlugin } from "gsap/all";
+gsap.registerPlugin(ScrollToPlugin);
 // import appbutton from "../components/appbutton"
 import productcarousel from "../components/productcarousel";
 import appbutton from "../components/appbutton.vue";
@@ -93,6 +117,8 @@ import featuredProjectsData from "../json/featuredProjects.json";
 export default {
   name: "home",
   mixins: [testmixins],
+  gsap: [gsap],
+  ScrollToPlugin: [ScrollToPlugin],
   components: {
     // AppButton: appbutton,
     productcarousel: productcarousel,
@@ -183,6 +209,13 @@ export default {
     }
   },
   methods: {
+    scrollTofooter: function() {
+      gsap.to(window, {
+        duration: 1.5,
+        scrollTo: { y: ".ild-footer-container", offsetY: 0 },
+        ease: "power2.in"
+      });
+    },
     getImgUrl: function(img) {
       return require("../assets/img/" + img);
     },

@@ -35,11 +35,9 @@
               </h1>
             </div>
             <div class="overflow-y-hidden">
-              <h1
-                class="uppercase smli-font mx-auto text-white opacity-30 menu-animation animate-link"
-              >
-                <router-link class="custom-cursor-none" to="/">Contact</router-link>
-              </h1>
+              <button
+                class="uppercase smli-font mx-auto text-white opacity-30 focus:outline-none menu-animation animate-link custom-cursor-none openFooter"
+              >Contact</button>
             </div>
           </div>
         </div>
@@ -77,9 +75,13 @@
 </template>
 
 <script>
-//import { gsap } from "gsap";
+import gsap from "gsap";
+import { ScrollToPlugin } from "gsap/all";
+gsap.registerPlugin(ScrollToPlugin);
 
 export default {
-  name: "navigation"
+  name: "navigation",
+  gsap: [gsap],
+  ScrollToPlugin: [ScrollToPlugin]
 };
 </script>

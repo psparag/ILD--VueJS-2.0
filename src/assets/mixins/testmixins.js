@@ -7,7 +7,7 @@ import "../../../node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug
 // import "../node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators"
 
 export const testmixins = {
-    mounted: function() {
+    mounted: function () {
         // function repeatOften() {
         //   console.log("repeatOften frame");
         //   requestAnimationFrame(repeatOften);
@@ -256,6 +256,7 @@ export const testmixins = {
             requestAnimationFrame(render);
         }
 
+
         /** button code */
 
         var temp_button = document.querySelectorAll(".temp-button");
@@ -338,11 +339,21 @@ export const testmixins = {
             });
         });
 
+        var openFooter = document.querySelector(".openFooter");
+        if (openFooter) {
+            openFooter.addEventListener("click", function () {
+                gsap.to(window, {
+                    duration: 1.5,
+                    scrollTo: { y: ".ild-footer-container", offsetY: 0 },
+                    ease: "power2.in"
+                });
+            })
+        }
         //Make a ScrollMagic scene for image galley with text
         var controller = new ScrollMagic.Controller();
         var stats = document.querySelectorAll(".about-us-stats-section");
 
-        stats.forEach(function(e) {
+        stats.forEach(function (e) {
             //References to DOM elements
             var scrollsection = e.querySelector(".about-us-stats-section-container--grid");
 
@@ -369,7 +380,7 @@ export const testmixins = {
         var galleryController = new ScrollMagic.Controller();
         var imageGalleryScroll = document.querySelectorAll(".image-gallery-scroll--animation");
 
-        imageGalleryScroll.forEach(function(element) {
+        imageGalleryScroll.forEach(function (element) {
             //References to DOM elements
             var imageOverlay = element.querySelectorAll(".gallery-overlay");
             var backgroundImage = element.querySelectorAll(".gallery-image");
