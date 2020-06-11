@@ -340,18 +340,6 @@ export const testmixins = {
                 }
             });
         });
-
-        var openFooter = document.querySelector(".openFooter");
-        if (openFooter) {
-            openFooter.addEventListener("click", function () {
-                gsap.to(window, {
-                    duration: 1.5,
-                    scrollTo: { y: ".ild-footer-container", offsetY: 0 },
-                    ease: "power2.in"
-                });
-            })
-        }
-
         var scrollTofooter = document.querySelector(".scrollTofooter");
         scrollTofooter.addEventListener("click", function () {
             gsap.to(window, {

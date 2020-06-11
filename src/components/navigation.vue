@@ -75,13 +75,7 @@
 </template>
 
 <script>
-import gsap from "gsap";
-import { ScrollToPlugin } from "gsap/all";
-gsap.registerPlugin(ScrollToPlugin);
-
 export default {
-  name: "navigation",
-  gsap: [gsap],
-  ScrollToPlugin: [ScrollToPlugin]
+  name: "navigation"
 };
 </script>
