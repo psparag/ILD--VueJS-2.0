@@ -600,6 +600,12 @@ body {
     width: 100%;
     height: 70.85vh;
 }
+.partners .item a > img{
+    background-color: #f2f2f2 !important;
+    padding: 20px;
+    object-fit: contain !important;
+    object-position: center !important;
+}
 /* Media queries for phones in portrait  */
 @media (max-width: 1366px){
     .sidebar-fixed-section-grid--email{

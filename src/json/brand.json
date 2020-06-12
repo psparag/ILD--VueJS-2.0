@@ -5,12 +5,12 @@
         "page": "BrandSingle",
         "slug": "lumenpulse",
         "brandURL": "https://www.lumenpulse.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "lumenpulse.png",
         "heroSection": {
             "id": "01",
             "title": "Lumenpulse ",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["lumenpulse.png"],
+            "imageUrl": "lumenpulse.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -23,12 +23,12 @@
         "page": "BrandSingle",
         "slug": "lumenAlpha",
         "brandURL": "https://www.lumenpulse.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "lumenalpha.png",
         "heroSection": {
             "id": "02",
             "title": "LumenAlpha",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["lumenalpha.png"],
+            "imageUrl": "lumenalpha.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -41,12 +41,12 @@
         "page": "BrandSingle",
         "slug": "exenia",
         "brandURL": "https://www.exenia.eu/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "exenia.png",
         "heroSection": {
             "id": "03",
             "title": "exenia",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["exenia.png"],
+            "imageUrl": "exenia.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -59,12 +59,12 @@
         "page": "BrandSingle",
         "slug": "ewo",
         "brandURL": "https://www.ewo.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "ewo.png",
         "heroSection": {
             "id": "04",
             "title": "ewo",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["ewo.png"],
+            "imageUrl": "ewo.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -77,12 +77,12 @@
         "page": "BrandSingle",
         "slug": "dot_spot",
         "brandURL": "https://www.dot-spot.eu/en/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "dot_spot.png",
         "heroSection": {
             "id": "05",
             "title": "Dot Spot",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["dot_spot.png"],
+            "imageUrl": "dot_spot.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -95,12 +95,12 @@
         "page": "BrandSingle",
         "slug": "lec",
         "brandURL": "https://www.lec-lyon.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "lec.png",
         "heroSection": {
             "id": "06",
             "title": "Lec",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["lec.png"],
+            "imageUrl": "lec.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -113,12 +113,12 @@
         "page": "BrandSingle",
         "slug": "heper",
         "brandURL": "https://www.heperlighting.com/en",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "heper.png",
         "heroSection": {
             "id": "07",
             "title": "heper",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["heper.png"],
+            "imageUrl": "heper.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -131,12 +131,12 @@
         "page": "BrandSingle",
         "slug": "ufo",
         "brandURL": "https://www.fibreopticlighting.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "ufo.jpg",
         "heroSection": {
             "id": "08",
             "title": "ufo",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["ufo.jpg"],
+            "imageUrl": "ufo.jpg"
         },
         "headingOne": {
             "headingsize": "small",
@@ -149,12 +149,12 @@
         "page": "BrandSingle",
         "slug": "cariboni",
         "brandURL": "https://www.caribonigroup.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "cariboni.png",
         "heroSection": {
             "id": "09",
             "title": "cariboni",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["cariboni.png"],
+            "imageUrl": "cariboni.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -167,12 +167,12 @@
         "page": "BrandSingle",
         "slug": "eulum",
         "brandURL": "https://www.eulum.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "eulum.png",
         "heroSection": {
             "id": "10",
             "title": "Eulum",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["eulum.png"],
+            "imageUrl": "eulum.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -185,12 +185,12 @@
         "page": "BrandSingle",
         "slug": "barthelme",
         "brandURL": "https://www.barthelme.de",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "barthelme.png",
         "heroSection": {
             "id": "11",
             "title": "barthelme",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["barthelme.png"],
+            "imageUrl": "barthelme.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -203,12 +203,12 @@
         "page": "BrandSingle",
         "slug": "rosa",
         "brandURL": "https://rosa.pl",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "rosa.png",
         "heroSection": {
             "id": "12",
             "title": "rosa",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["rosa.png"],
+            "imageUrl": "rosa.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -221,12 +221,12 @@
         "page": "BrandSingle",
         "slug": "technilum",
         "brandURL": "https://www.technilum.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "technilum.png",
         "heroSection": {
             "id": "13",
             "title": "technilum",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["technilum.png"],
+            "imageUrl": "technilum.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -239,12 +239,12 @@
         "page": "BrandSingle",
         "slug": "puraluce",
         "brandURL": "http://www.puraluce.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "puraluce.png",
         "heroSection": {
             "id": "14",
             "title": "puraluce",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["puraluce.png"],
+            "imageUrl": "puraluce.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -257,12 +257,12 @@
         "page": "BrandSingle",
         "slug": "derksen",
         "brandURL": "https://www.derksen.de/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "derksen.png",
         "heroSection": {
             "id": "15",
             "title": "derksen",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["derksen.png"],
+            "imageUrl": "derksen.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -275,12 +275,12 @@
         "page": "BrandSingle",
         "slug": "orluna",
         "brandURL": "https://www.orluna.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "orluna.png",
         "heroSection": {
             "id": "16",
             "title": "orluna",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["orluna.png"],
+            "imageUrl": "orluna.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -293,12 +293,12 @@
         "page": "BrandSingle",
         "slug": "ivela",
         "brandURL": "http://www.ivela.it/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "ivela.png",
         "heroSection": {
             "id": "17",
             "title": "ivela",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["ivela.png"],
+            "imageUrl": "ivela.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -311,12 +311,12 @@
         "page": "BrandSingle",
         "slug": "emfa",
         "brandURL": "https://www.emfa.com.tr/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "emfa.png",
         "heroSection": {
             "id": "18",
             "title": "emfa",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["emfa.png"],
+            "imageUrl": "emfa.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -329,12 +329,12 @@
         "page": "BrandSingle",
         "slug": "moltoluce",
         "brandURL": "https://www.moltoluce.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "molto_luce.png",
         "heroSection": {
             "id": "19",
             "title": "moltoluce",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["molto_luce.png"],
+            "imageUrl": "molto_luce.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -347,12 +347,12 @@
         "page": "BrandSingle",
         "slug": "astel_lighting",
         "brandURL": "https://www.astel-lighting.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "astel_lighting.png",
         "heroSection": {
             "id": "20",
             "title": "Astel Lighting",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["astel_lighting.png"],
+            "imageUrl": "astel_lighting.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -365,12 +365,12 @@
         "page": "BrandSingle",
         "slug": "astro",
         "brandURL": "https://www.astrolighting.com/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "astro_lighting.png",
         "heroSection": {
             "id": "21",
             "title": "astro",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["astro_lighting.png"],
+            "imageUrl": "astro_lighting.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -383,12 +383,12 @@
         "page": "BrandSingle",
         "slug": "es_system",
         "brandURL": "https://www.essystem.pl/",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "es_system.png",
         "heroSection": {
             "id": "22",
             "title": "ES System",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["es_system.png"],
+            "imageUrl": "es_system.png"
         },
         "headingOne": {
             "headingsize": "small",
@@ -401,12 +401,12 @@
         "page": "BrandSingle",
         "slug": "no_watt_lighting",
         "brandURL": "https://www.nowatt-lighting.com",
-        "thumbnailUrl": "placeholder.jpg",
+        "thumbnailUrl": "nowatt_lighting.png",
         "heroSection": {
             "id": "23",
             "title": "No Watt Lighting",
-            "carouselImages": ["placeholder.jpg"],
-            "imageUrl": "placeholder.jpg"
+            "carouselImages": ["nowatt_lighting.png"],
+            "imageUrl": "nowatt_lighting.png"
         },
         "headingOne": {
             "headingsize": "small",

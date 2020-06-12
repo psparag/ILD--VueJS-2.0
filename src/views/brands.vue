@@ -1,5 +1,5 @@
 <template>
-  <div class="ild-brands brand">
+  <div class="ild-brands brand partners">
     <!-- <app-cursor></app-cursor> -->
 
     <!-- <appnavigation></appnavigation> -->

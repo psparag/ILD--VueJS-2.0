@@ -62,7 +62,7 @@
                 <h1
                   class="menu-tiles uppercase smli-font mx-auto text-white opacity-30 menu-animation animate-link"
                 >
-                  <router-link class="custom-cursor-none" to="/brands">Brands</router-link>
+                  <router-link class="custom-cursor-none" to="/partners">Partners</router-link>
                 </h1>
               </div>
               <div class="overflow-y-hidden">
@@ -75,27 +75,27 @@
           </div>
           <div class="menu-container-content--rotating-pictures absolute hidden">
             <img
-              src="@/assets/img/picture_11.jpg"
+              src="@/assets/img/taj_mahal_main_east_gate_entrance_2.jpg"
               alt
               class="absolute image animation-rotation object-cover opacity-0"
             />
             <img
-              src="@/assets/img/picture_14.jpg"
+              src="@/assets/img/awadhshilpagram_1.png"
               alt
               class="absolute image animation-rotation object-cover opacity-0"
             />
             <img
-              src="@/assets/img/lodha_group_2.png"
+              src="@/assets/img/kolkata_residence_1.png"
               alt
               class="absolute image animation-rotation object-cover opacity-0"
             />
             <img
-              src="@/assets/img/orluna.jpg"
+              src="@/assets/img/lodha_group_7.png"
               alt
               class="absolute image animation-rotation object-cover opacity-0"
             />
             <img
-              src="@/assets/img/picture_16.jpg"
+              src="@/assets/img/rumi_gate_1.jpg"
               alt
               class="absolute image animation-rotation object-cover opacity-0"
             />
@@ -139,6 +139,8 @@ export default {
         ".menu-container-content--rotating-pictures"
       );
       rotating_picture_container.classList.add("hidden");
+      gsap.to(rotating_picture_container, 1 ,{opacity:0, ease: "power4.out"});
+
       var menu_tiles = document.querySelectorAll(".menu-tiles");
       var menu_close_timeline = new gsap.timeline();
       this.ild_email.classList.remove("hidden");
@@ -194,6 +196,9 @@ export default {
       var rotating_picture_container = document.querySelector(
         ".menu-container-content--rotating-pictures"
       );
+
+      gsap.to(rotating_picture_container, 0.8 ,{opacity:1, ease: "power4.out"});
+
       rotating_picture_container.classList.remove("hidden");
       var rotating_picture_container_images = rotating_picture_container.querySelectorAll(
         ".image"

@@ -127,11 +127,11 @@ export default new VueRouter({
             component: () => import(/* webpackChunkName: "team" */ "./views/team"),
         },
         {
-            path: "/brands",
-            name: "brands",
+            path: "/partners",
+            name: "Partners",
             props: true,
             // lazy load routes
-            component: () => import(/* webpackChunkName: "brands" */ "./views/brands"),
+            component: () => import(/* webpackChunkName: "Partners" */ "./views/brands"),
         },
         {
             path: "/work",
