@@ -365,8 +365,9 @@ export const testmixins = {
             tween1
                 .to(scrollsection, { duration: 6, x: "-20%" })
                 .to(scrollsection, { duration: 6, x: "-40%" })
-                .to(scrollsection, { duration: 6, x: "-60%" });
-            // .to(scrollsection, { duration: 6, x: "-80%" });
+                .to(scrollsection, { duration: 6, x: "-60%" })
+                .to(scrollsection, { duration: 6, x: "-80%" })
+                .to(scrollsection, { duration: 6, x: "-100%" });
 
             //Make a ScrollMagic scene
             new ScrollMagic.Scene({

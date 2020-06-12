@@ -108,19 +108,19 @@ export default {
         headingsize: "small",
         headingtext: "our story",
         paragraphtext:
-          "<p>Mastering ambient lighting technology and unravelling the complexities of electrical lighting,  Vikram Jain, the director of Innovative Lighting Designs Limited, started his career back in 1993 with the manufacturing of electrical ballasts and light batons (traditional lighting systems). With a desire to keep learning and evolving, he took another step to expand his business by manufacturing ceiling panels, downlight fixtures and trading some commercial fixtures from Far-East Countries. </p> <p>In 2006, Vikram attended the Light + Build fair in Germany, which inspired him to take Lighting to another dimension. After realizing the technological urgency this industry requires, Innovative Lighting Designs Limited (ILDL) started partnering and having exclusive sales agreements with some of the leading lighting brands from across the globe. What started off with just one single brand representation took multiple manifolds over the years as ILDL today represents 16+ brands from across the world.From manufacturing and marketing a few lighting products to single handedly conceiving, creating and executing his ideas to reality, Innovative was born.</p> <p>ILDL started off in 2006 with an ideology to translate lateral thinking into actionable processes that will contribute to improve on existing techniques and provide value-added services to our customers. Vikram and his team have created a virtual lighting think – tank, inspiring people and transforming spaces with light.</p>"
+          "<p>Mastering ambient lighting technology and unravelling the complexities of electrical lighting,  Vikram Jain, the director of Innovative Lighting Designs Limited, started his career back in 1993 with the manufacturing of electrical ballasts and light batons (traditional lighting systems). With a desire to keep learning and evolving, he took another step to expand his business by manufacturing ceiling panels, downlight fixtures and trading some commercial fixtures from Far-East Countries. In 2006, Vikram attended the Light + Build fair in Germany, which inspired him to take Lighting to another dimension. After realizing the technological urgency this industry requires, Innovative Lighting Designs Limited (ILDL) started partnering and having exclusive sales agreements with some of the leading lighting brands from across the globe. What started off with just one single brand representation took multiple manifolds over the years as ILDL today represents 16+ brands from across the world.</p><p>From manufacturing and marketing a few lighting products to single handedly conceiving, creating and executing his ideas to reality, Innovative was born.</p><p>ILDL started off in 2006 with an ideology to translate lateral thinking into actionable processes that will contribute to improve on existing techniques and provide value-added services to our customers. Vikram and his team have created a virtual lighting think – tank, inspiring people and transforming spaces with light.</p>"
       },
       headingdata2: {
         headingid: "02",
         headingsize: "large",
         headingtext: "our mission",
         paragraphtext:
-          "<p>ILDL’s aim is to be recognised as the leading lighting solutions provider for South and South-East Asia, backed up by the highest standards of quality, ethics and integrity. </p> <p>We believe in promoting a culture that benefits our clients as well as our employees. We strive to create a work environment that encourages employee engagement at all levels to achieve outstanding performance and continuous improvement. We aspire to convert our love and passion for lighting into products that would provide both utility and solace to our customers.</p>"
+          "<p>ILDL’s aim is to be recognised as the leading lighting solutions provider for South and South-East Asia, backed up by the highest standards of quality, ethics and integrity.</p><p>We believe in promoting a culture that benefits our clients as well as our employees. We strive to create a work environment that encourages employee engagement at all levels to achieve outstanding performance and continuous improvement. We aspire to convert our love and passion for lighting into products that would provide both utility and solace to our customers.</p>"
       },
       headingdata3: {
         headingsize: "large",
         paragraphtext:
-          "<p>Our logo embodies the ideals of the company. The brand symbol is based on the luminance flux (ϕ), representing not only the lighting aspect but also a new aesthetic that communicates the values of our brand: efficiency, integrity, growth and innovation. The bold typography is chosen to complement the symbol, resulting in a logo with a geometric rigour matched by the freedom of the curves. Through the white background, we aim to convey the limitless ability of the company to develop and adapt based on the ever-changing world while the contrasting black shows the company’s confidence and certainty. </p><p>The overall contrast in the black and white signifies unity, and demonstrates the element of the light present that enables the viewer to see the potential of the company. The result intends to create a fresh, positive and hopeful communication system coherent across all mediums to better express the ‘innovative’ work we do. </p>"
+          "<p>Our logo embodies the ideals of the company. The brand symbol is based on the luminance flux (ϕ), representing not only the lighting aspect but also a new aesthetic that communicates the values of our brand: efficiency, integrity, growth and innovation. The bold typography is chosen to complement the symbol, resulting in a logo with a geometric rigour matched by the freedom of the curves. Through the white background, we aim to convey the limitless ability of the company to develop and adapt based on the ever-changing world while the contrasting black shows the company’s confidence and certainty. The overall contrast in the black and white signifies unity, and demonstrates the element of the light present that enables the viewer to see the potential of the company. The result intends to create a fresh, positive and hopeful communication system coherent across all mediums to better express the ‘innovative’ work we do.</p>"
       },
       headingdata4: {
         headingid: "04",
@@ -137,12 +137,20 @@ export default {
           text: "No of Empolyees"
         },
         {
-          id: "23+",
+          id: "24+",
           text: "Partner brands "
         },
         {
           id: "2006",
           text: "Established "
+        },
+        {
+          id: "3",
+          text: "Offices "
+        },
+        {
+          id: "150+",
+          text: "Project Completed "
         }
       ],
       services: services,

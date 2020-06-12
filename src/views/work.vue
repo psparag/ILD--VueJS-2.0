@@ -56,7 +56,7 @@ export default {
       padding_150: "custom-padding-top-150 c-padding-t-110",
       padding_250: "custom-padding-top-250",
       padding_200: "custom-padding-top-200 c-padding-t-100",
-      showFilters: true
+      showFilters: false
     };
   }
 };

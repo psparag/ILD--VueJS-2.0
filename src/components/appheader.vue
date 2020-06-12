@@ -9,11 +9,13 @@
           class="text-xs sidebar-fixed-section-grid--menu uppercase text-right text-gray-900 pointer-events-auto animate-link"
         >Menu</p>
       </div>
-      <p
-        ref="ild_email"
-        class="sidebar-fixed-section-grid--email uppercase text-xs text-gray-900 pointer-events-auto animate-link custom-xs-hidden"
-      >contact@ILDLIMITED.COM</p>
-      <div
+      <a href="mailto:info@ildlimited.com" class="custom-cursor-none animate-link">
+        <p
+          ref="ild_email"
+          class="sidebar-fixed-section-grid--email uppercase text-xs text-gray-900 pointer-events-auto custom-xs-hidden"
+        >info@ildlimited.com</p>
+      </a>
+      <!-- <div
         ref="dark_mode_toggle"
         class="sidebar-fixed-section-grid--dark-mode uppercase text-xs animate-link flex flex-row custom-xs-hidden"
       >
@@ -21,7 +23,7 @@
         <p
           class="sidebar-fixed-section-grid-dark-mode--text ml-6 text-gray-900 pointer-events-auto"
         >Try the dark mode</p>
-      </div>
+      </div>-->
     </div>
     <!-- Sidebar Section ends -->
     <!-- Menu Starts -->
@@ -66,14 +68,12 @@
                 </h1>
               </div>
               <div class="overflow-y-hidden">
-                <h1
-                  class="menu-tiles smli-font mx-auto text-white opacity-30 menu-animation animate-link"
+                <button
+                  @click="openFooter"
+                  class="menu-tiles uppercase smli-font mx-auto text-white opacity-30 focus:outline-none menu-animation animate-link custom-cursor-none openFooter"
                 >
-                  <button
-                    @click="openFooter"
-                    class="uppercase custom-cursor-none openFooter focus:outline-none"
-                  >Contact</button>
-                </h1>
+                  <h1 class>Contact</h1>
+                </button>
               </div>
             </div>
           </div>
@@ -124,7 +124,7 @@ export default {
       menu_background: "",
       menu_toggler: "",
       ild_email: "",
-      dark_mode_toggle: "",
+      // dark_mode_toggle: "",
       menu: "",
       menu_container_content_titles_grid: ""
     };
@@ -133,7 +133,7 @@ export default {
     this.menu_background = this.$refs.menu_background;
     this.menu_toggler = this.$refs.menu_toggler;
     this.ild_email = this.$refs.ild_email;
-    this.dark_mode_toggle = this.$refs.dark_mode_toggle;
+    // this.dark_mode_toggle = this.$refs.dark_mode_toggle;
     this.menu = this.$refs.menu;
     this.menu_container_content_titles_grid = this.$refs.menu_container_content_titles_grid;
   },
@@ -151,7 +151,7 @@ export default {
       var menu_tiles = document.querySelectorAll(".menu-tiles");
       var menu_close_timeline = new gsap.timeline();
       this.ild_email.classList.remove("hidden");
-      this.dark_mode_toggle.classList.remove("hidden");
+      // this.dark_mode_toggle.classList.remove("hidden");
       menu_close_timeline
         .to(
           menu_tiles,
@@ -219,7 +219,7 @@ export default {
         );
         var menu_close_timeline = new gsap.timeline();
         this.ild_email.classList.remove("hidden");
-        this.dark_mode_toggle.classList.remove("hidden");
+        // this.dark_mode_toggle.classList.remove("hidden");
         menu_close_timeline
           .to(
             menu_tiles,
@@ -287,7 +287,7 @@ export default {
               onComplete: () => {
                 this.menu_toggler.innerHTML = "Close";
                 this.ild_email.classList.add("hidden");
-                this.dark_mode_toggle.classList.add("hidden");
+                // this.dark_mode_toggle.classList.add("hidden");
                 gsap.set(this.menu_toggler, { y: 100 }, 0);
                 this.menu_toggler.classList.remove("text-gray-900");
                 this.menu_toggler.classList.add("text-white");

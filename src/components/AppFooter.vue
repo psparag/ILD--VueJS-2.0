@@ -58,12 +58,20 @@
                   >Reach us by phone</p>
                   <div class="phone-number-container pt-8">
                     <div class="phone-numbers flex flex-row self-center">
-                      <img src="../assets/phone_icon.svg" alt srcset />
-                      <a href="tel:+91987653210" class="pl-8 text-white text-xl">+91-987653210</a>
+                      <a
+                        href="tel:+911141406716"
+                        class="custom-cusor-none animate-link text-white text-xl flex flex-row items-center"
+                      >
+                        <img src="../assets/phone_icon.svg" alt srcset class="pr-2 w-10 h-4" /> +91-11-41406716
+                      </a>
                     </div>
-                    <div class="phone-numbers flex flex-row self-center">
-                      <img src="../assets/phone_icon.svg" alt srcset />
-                      <a href="tel:+91987653210" class="pl-8 text-white text-xl">+91-987653210</a>
+                    <div class="phone-numbers flex flex-row self-center mt-4">
+                      <a
+                        href="fax:+911141406717"
+                        class="custom-cusor-none animate-link text-white text-xl flex flex-row items-center"
+                      >
+                        <img src="../assets/fax.svg" alt srcset class="pr-2 w-10 h-4" /> +91-11-41406717
+                      </a>
                     </div>
                   </div>
                 </div>

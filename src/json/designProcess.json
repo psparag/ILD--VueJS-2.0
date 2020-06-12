@@ -6,8 +6,10 @@
         "thumbnailUrl": "picture_19.jpg",
         "heroSection": {
             "id": "01",
-            "title": "Delving into trends",
-            "carouselImages": ["picture_19.jpg"],
+            "title": "Delving into trends/ Project need analysis",
+            "carouselImages": [
+                "picture_19.jpg"
+            ],
             "imageUrl": "picture_19.jpg"
         },
         "headingOne": {
@@ -23,7 +25,9 @@
         "heroSection": {
             "id": "02",
             "title": "Project Planning",
-            "carouselImages": ["picture_13.jpg"],
+            "carouselImages": [
+                "picture_13.jpg"
+            ],
             "imageUrl": "picture_13.jpg"
         },
         "headingOne": {
@@ -34,6 +38,10 @@
             {
                 "headingsize": "small",
                 "paragraphtext": "We realize that designing your dream space might be overwhelming, so we love to keep the process smooth and straightforward by listening to and concentrating on your goals and ideas. From there on forth we develop an innovative and inventive strategy with the best viable products central to your aim to create a unique, alluring and intriguing space."
+            },
+            {
+                "headingsize": "small",
+                "paragraphtext": "At ILDL, we curate lighting trends and projects of any and all requirements based on the desires and purpose of the client from ambient lighting at public spaces to architectural infrastructure, and from commercial complexes to private homes, we always have the entire spectrum covered. Just as having a soul to soul connect with our client, we believe in integrating a connect between the system and our craft to come to your aid. We have established ourselves as pioneers in system integration, assisting our clients with their integration needs to curate the perfect lighting solutions and lend our expertise in the industry to satiate their expectations."
             }
         ]
     }

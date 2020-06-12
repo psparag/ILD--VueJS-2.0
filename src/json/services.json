@@ -7,7 +7,9 @@
         "heroSection": {
             "id": "01",
             "title": "Client Centric Approach",
-            "carouselImages": ["picture_15.jpg"],
+            "carouselImages": [
+                "picture_15.jpg"
+            ],
             "imageUrl": "picture_15.jpg"
         },
         "headingOne": {
@@ -22,6 +24,10 @@
             {
                 "headingsize": "small",
                 "paragraphtext": "We at ILDL follow a client centric approach which allows us to cater to each client’s taste and with our comprehensive expertise and experience, our team is accessible and available for the convenience of the clients with thorough technical information from all our product partners. ILDL is always evolving and we endeavor to provide complete assistance with schematic and technical drawings, lux level calculations, renderings and bespoke solutions. All our services are available in-house and always fixated on your goals."
+            },
+            {
+                "headingsize": "small",
+                "paragraphtext": "<span class='font-black'>“From concept to creation”</span> epitomizes our obsession and attitude towards providing the finest solutions to our clients – it’s what we live and breathe at ILDL."
             }
         ]
     },
@@ -33,7 +39,9 @@
         "heroSection": {
             "id": "02",
             "title": "Our Expertise",
-            "carouselImages": ["picture_16.jpg"],
+            "carouselImages": [
+                "picture_16.jpg"
+            ],
             "imageUrl": "picture_16.jpg"
         },
         "headingOne": {
@@ -55,7 +63,9 @@
         "heroSection": {
             "id": "03",
             "title": "MOCK-UP",
-            "carouselImages": ["picture_17.jpg"],
+            "carouselImages": [
+                "picture_17.jpg"
+            ],
             "imageUrl": "picture_17.jpg"
         },
         "headingOne": {
@@ -81,7 +91,9 @@
         "heroSection": {
             "id": "04",
             "title": "INSTALLATION",
-            "carouselImages": ["picture_18.jpg"],
+            "carouselImages": [
+                "picture_18.jpg"
+            ],
             "imageUrl": "picture_18.jpg"
         },
         "headingOne": {
