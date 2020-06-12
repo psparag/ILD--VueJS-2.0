@@ -341,13 +341,16 @@ export const testmixins = {
             });
         });
         var scrollTofooter = document.querySelector(".scrollTofooter");
-        scrollTofooter.addEventListener("click", function () {
-            gsap.to(window, {
-                duration: 1.5,
-                scrollTo: { y: ".ild-footer-container", offsetY: 0 },
-                ease: "power2.in"
-            });
-        })
+        if (scrollTofooter) {
+            scrollTofooter.addEventListener("click", function () {
+                gsap.to(window, {
+                    duration: 1.5,
+                    scrollTo: { y: ".ild-footer-container", offsetY: 0 },
+                    ease: "power2.in"
+                });
+            })
+        }
+
 
         //Make a ScrollMagic scene for image galley with text
         var controller = new ScrollMagic.Controller();
