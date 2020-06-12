@@ -162,10 +162,6 @@ export default {
         });
       });
     }
-  },
-  mounted() {
-    //console.log("mounted");
-    //this.hearedMenu();
   }
 };
 </script>
