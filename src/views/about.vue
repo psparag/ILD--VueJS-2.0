@@ -2,7 +2,7 @@
   <div class="about">
     <!-- <app-cursor></app-cursor> -->
 
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
 
     <appheader></appheader>
 

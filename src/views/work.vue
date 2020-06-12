@@ -2,7 +2,7 @@
   <div class="ild-work work">
     <!-- <app-cursor></app-cursor> -->
 
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
 
     <appheader></appheader>
 

@@ -1,6 +1,6 @@
 <template>
   <div class="featured-project-single">
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
     <appheader></appheader>
 
     <!-- main section starts -->

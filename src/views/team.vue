@@ -2,7 +2,7 @@
   <div class="team">
     <!-- <app-cursor></app-cursor> -->
 
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
 
     <appheader></appheader>
 

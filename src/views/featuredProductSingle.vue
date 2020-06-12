@@ -1,6 +1,6 @@
 <template>
   <div class="featured-product-single">
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
     <appheader></appheader>
 
     <!-- main section starts -->
@@ -8,7 +8,7 @@
       <div id="scroll-container" class="scroll-container">
         <div class="content bg-white">
           <page-title></page-title>
-          <div class="relative c-z-6 ">
+          <div class="relative c-z-6">
             <!-- Container starts -->
             <div class="relative">
               <div class="information-container">

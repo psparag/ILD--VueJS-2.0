@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <!-- <app-cursor></app-cursor> -->
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
     <appheader></appheader>
 
     <!-- main section starts -->

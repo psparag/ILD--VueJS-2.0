@@ -2,7 +2,7 @@
   <div class="ild-brands brand">
     <!-- <app-cursor></app-cursor> -->
 
-    <appnavigation></appnavigation>
+    <!-- <appnavigation></appnavigation> -->
 
     <appheader></appheader>
 
