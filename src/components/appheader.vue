@@ -66,10 +66,14 @@
                 </h1>
               </div>
               <div class="overflow-y-hidden">
-                <button
-                  @click="openFooter"
-                  class="menu-tiles uppercase smli-font mx-auto text-white opacity-30 focus:outline-none menu-animation animate-link custom-cursor-none openFooter"
-                >Contact</button>
+                <h1
+                  class="menu-tiles smli-font mx-auto text-white opacity-30 menu-animation animate-link"
+                >
+                  <button
+                    @click="openFooter"
+                    class="uppercase custom-cursor-none openFooter focus:outline-none"
+                  >Contact</button>
+                </h1>
               </div>
             </div>
           </div>
@@ -139,7 +143,10 @@ export default {
         ".menu-container-content--rotating-pictures"
       );
       rotating_picture_container.classList.add("hidden");
-      gsap.to(rotating_picture_container, 1 ,{opacity:0, ease: "power4.out"});
+      gsap.to(rotating_picture_container, 1, {
+        opacity: 0,
+        ease: "power4.out"
+      });
 
       var menu_tiles = document.querySelectorAll(".menu-tiles");
       var menu_close_timeline = new gsap.timeline();
@@ -197,7 +204,10 @@ export default {
         ".menu-container-content--rotating-pictures"
       );
 
-      gsap.to(rotating_picture_container, 0.8 ,{opacity:1, ease: "power4.out"});
+      gsap.to(rotating_picture_container, 0.8, {
+        opacity: 1,
+        ease: "power4.out"
+      });
 
       rotating_picture_container.classList.remove("hidden");
       var rotating_picture_container_images = rotating_picture_container.querySelectorAll(
